@@ -1,1 +1,2 @@
-# Fun-with-Data-Science
+# Fun with Data
+# Data Science
